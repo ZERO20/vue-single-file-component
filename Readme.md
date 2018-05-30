@@ -1,0 +1,1 @@
+# Ejemplo de creación de un compontente en un solo archivo haciendo uso de archivos con la extensión .vue
